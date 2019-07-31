@@ -23,8 +23,6 @@ const connect = function() {
     // setTimeout(() => {conn.write("Move: left")}, 100);
     // setTimeout(() => {conn.write("Move: down")}, 150);
    
-    
-
 
   });
 
