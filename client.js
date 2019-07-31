@@ -18,12 +18,7 @@ const connect = function() {
     console.log("Successfully connected to game server");
 
     conn.write('Name: DML');
-    // conn.write("Move: up");
-    // setTimeout(() => {conn.write("Move: left")}, 50);
-    // setTimeout(() => {conn.write("Move: left")}, 100);
-    // setTimeout(() => {conn.write("Move: down")}, 150);
-   
-
+  
   });
 
   return conn;
